@@ -1,17 +1,14 @@
 # NativeScript Core Master-Detail App Template
-This Starter Kit reflects the best practices of React Native development we have discovered while building real-world applications for our customers. It is opinionated about tooling, patterns and development practices. It might not be a one-size-fits-all solution for everyone, but feel free to customize it for your needs, or just take inspiration from it.
-
-## Intro
 App templates help you jump start your native cross-platform apps with built-in UI elements and best practices. Save time writing boilerplate code over and over again when you create new apps.
 
 This Master-Detail template is a fundamental building block for any app that displays collection of objects and their details and need to work both in online and offline mode while utilizing Firebase as a backend.
 
-<img src="/tools/assets/master-detail-app-ios.png" height="400" />
+<img src="/tools/assets/masterDetail-ios.png" height="400" />
 
 ## Key Features
 - Editable master-detail interface
 - Integration with Firebase database
-– Works offline
+- Works offline
 - Customizable theme
 - UX and development best practices
 - Easy to understand code through extensive code comments
